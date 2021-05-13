@@ -30,7 +30,7 @@ var server = http.createServer(function(request, response){
           <link rel="stylesheet" href="/x">
         </head>
         <body>
-          <h1>标题</hi>
+          <h1>哈哈我打开了标题</hi>
           <script src="/y"> </script>
         </body>
     `)  //这是一个反单引号，在1左边的键
